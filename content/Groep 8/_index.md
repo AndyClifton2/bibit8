@@ -1,5 +1,5 @@
 ---
-description: Exotic wildlife, pet kittens — and everything in between. Uncover the beauty of the animal kingdom through your screen.
+description: 
 featured_image: janis-ringli-UC1pzyJFyvs-unsplash.jpg
 keywords: [Animals, Photos, Cats, Dogs]
 title: Groep 8

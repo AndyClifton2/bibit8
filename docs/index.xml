@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eindfeest Groep 8 Bibit on Gallery</title>
+    <link>/</link>
+    <description>Recent content in Eindfeest Groep 8 Bibit on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Eindfeest Groep 8 Bibit)</managingEditor>
+    <webMaster>user@example.com (Eindfeest Groep 8 Bibit)</webMaster>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Groep 8</title>
+      <link>/groep-8/deel-1/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>user@example.com (Eindfeest Groep 8 Bibit)</author>
+      <guid>/groep-8/deel-1/</guid><media:content url="/groep-8/deel-1/DSC_3277_hu9b49ed12c304ccde001669965f85a37b_84480_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/groep-8/deel-1/DSC_3277_hu9b49ed12c304ccde001669965f85a37b_84480_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Deel 2</title>
+      <link>/groep-8/deel-2/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>user@example.com (Eindfeest Groep 8 Bibit)</author>
+      <guid>/groep-8/deel-2/</guid><media:content url="/groep-8/deel-2/DSC_3551_hu9b49ed12c304ccde001669965f85a37b_459918_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/groep-8/deel-2/DSC_3551_hu9b49ed12c304ccde001669965f85a37b_459918_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Deel 3</title>
+      <link>/groep-8/deel-3/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>user@example.com (Eindfeest Groep 8 Bibit)</author>
+      <guid>/groep-8/deel-3/</guid><media:content url="/groep-8/deel-3/DSC_3792_hu9b49ed12c304ccde001669965f85a37b_121124_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/groep-8/deel-3/DSC_3792_hu9b49ed12c304ccde001669965f85a37b_121124_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
